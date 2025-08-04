@@ -33,7 +33,17 @@ This project introduces an AI-powered assistant designed to assist faculty with 
 * Framework: LangGraph
 * Architecture: ReAct
 
-### 📜 References
+### 📎 References
 
-* NBA India [https://nbaind.org/](https://nbaind.org/)
-* IBM Watsonx [https://www.ibm.com/watsonx](https://www.ibm.com/watsonx)
+* 🔗 [NBA Official Website](https://www.nbaind.org/)
+* 🔗 [IBM Watsonx](https://www.ibm.com/watsonx)
+* 📃 Rajkumar & Swathi (2021). *NBA Accreditation Application Guide.* IARJSET.
+* 📃 Panda, Meethun (2025). *Agentic RAG for Adaptive Intelligence.*
+
+
+## 📬 Contact
+
+**Abhishek B**
+Electronics and Communication Engineering
+NSS College of Engineering, Palakkad
+📧 \[abhib9464@gmail.com]
