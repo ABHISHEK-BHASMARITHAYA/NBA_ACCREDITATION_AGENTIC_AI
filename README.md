@@ -41,9 +41,9 @@ This project introduces an AI-powered assistant designed to assist faculty with 
 * 📃 Panda, Meethun (2025). *Agentic RAG for Adaptive Intelligence.*
 
 
-## 📬 Contact
+### 📬 Contact
 
-**Abhishek B**
-Electronics and Communication Engineering
-NSS College of Engineering, Palakkad
-📧 \[abhib9464@gmail.com]
+*  **Abhishek B**
+*  Electronics and Communication Engineering
+*  NSS College of Engineering, Palakkad
+*  📧 \[abhib9464@gmail.com]
